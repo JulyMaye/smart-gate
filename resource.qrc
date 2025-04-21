@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>background.png</file>
+    <file>cat.png</file>
+    <file>bkgbutton.png</file>
+</qresource>
+</RCC>
